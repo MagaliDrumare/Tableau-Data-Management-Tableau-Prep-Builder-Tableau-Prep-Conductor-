@@ -4,7 +4,7 @@
 - Tableau Prep Builder et Tableau Prep Conductor offrent la garantie que vos données seront toujours bien préparées, 
 fiables et prêtes à être analysées.
 - Tableau Prep Conductor donne la possibilité de planifier et de gérer les flux créés avec Tableau Prep Builder, dans Tableau Server.
-- Il est disponible dans la version 2019.1 de Tableau Server via une licence spécifique dans le cadre de la souscription à l'offre 
+- Tableau Prep Conductor est disponible dans la version 2019.1 de Tableau Server via une licence spécifique dans le cadre de la souscription à l'offre 
 Tableau Data Management.  
 - Tableau Prep Conductor est intégré à Tableau Server donc bénéficie de la puissance, des autorisations et de la sécurité d'un environnement serveur.
 
