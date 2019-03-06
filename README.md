@@ -9,11 +9,11 @@ Tableau Data Management.
 - Tableau Prep Conductor est intégré à Tableau Server donc bénéficie de la puissance, des autorisations et de la sécurité d'un environnement serveur.
 
 
-## Téléchargements gratuit et Prix des licences : 
+## Téléchargements et prix des licences : 
 - Télécharger la dernière version Tableau Prep Builder : https://www.tableau.com/fr-fr/products/prep#conductor
 - Télécharger Tableau Server 2019.1 qui permet d'accéder à Tableau Prep Conductor : https://www.tableau.com/fr-fr/products/server 
 
-- Prix de Tableau Data Management qui inclue le add-on Tableau prep Conductor : https://www.tableau.com/fr-fr/pricing/teams-orgs
+- Prix de Tableau Data Management qui inclue l'add-on Tableau prep Conductor : https://www.tableau.com/fr-fr/pricing/teams-orgs
 
 
 ## Revue de presse : 
