@@ -24,7 +24,7 @@ https://www.decideo.fr/Tableau-complete-ses-outils-de-preparation-de-donnees-ave
 - Tableau Prep Conductor est inclus dans la nouvelle extension Tableau Data Management Add-on: 
 https://www.tableau.com/fr-fr/about/blog/2019/2/tableau-prep-conductor-and-data-management-add-on-101614
 
--Tableau Data Management : gérez plus efficacement toutes les données ajoutées dans votre environnement Tableau
+- Tableau Data Management : gérez plus efficacement toutes les données ajoutées dans votre environnement Tableau
 https://www.tableau.com/fr-fr/products/add-ons/data-management
 
 
